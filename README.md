@@ -9,3 +9,5 @@ Outcomes:
 - Estimation of spatial and temporal variations in forage productivity through statistical analysis techniques identifying factors influencing productivity.
 
 - Map that illustrates the distribution of ANPP records and areas lacking data, which provides valuable insights for future research and resource management.
+
+[First visualization](anpp_dataset_visualization.pdf)
