@@ -1,4 +1,4 @@
-Estimation of Annual Forage Productivity in Argentinean grasslands 
+Estimation of Annual Forage Productivity in Argentine grasslands 
 
 This project aimed to compile, analyze, and estimate the annual forage productivity across diverse vegetation types, focusing on distinguishing between spontaneous and cultivated vegetation.
 
