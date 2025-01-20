@@ -12,8 +12,8 @@
 
 ## Regarding to this [First visualization](anpp_dataset_visualization.pdf) 
 
-- There is a greater MAP (mean annual precipitation) in the Pampa, Espinal and Chaco regions than in the Monte and Patagonia regions.
+-  The mean annual precipitation (MAP) is greater in the Pampa, Espinal, and Chaco regions compared to the Monte and Patagonia regions.
   
 - Consistently with MAP, ANPP is greater in the Pampa and Espinal regions than in the Monte and Patagonia regions except for Chaco region, where it is lower even thouhg its MAP is not. This could be explained by another condition, like soil type or seasonality precipitation.
 
-- 
+- he map shows larger and more frequent bubbles in northern Argentina, indicating that most records come from the north rather than the south.
