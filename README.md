@@ -1,6 +1,6 @@
-#Estimation of Annual Forage Productivity in Argentine grasslands 
+# Estimation of Annual Forage Productivity in Argentine grasslands 
 
-###This project aimed to compile, analyze, and estimate the annual forage productivity in terms of ANPP (annual net primary production) across diverse vegetation types, focusing on distinguishing between spontaneous and cultivated vegetation for almost 40 years period.
+### This project aimed to compile, analyze, and estimate the annual forage productivity in terms of ANPP (annual net primary production) across diverse vegetation types, focusing on distinguishing between spontaneous and cultivated vegetation for almost 40 years period.
 
 ## Outcomes:
 
